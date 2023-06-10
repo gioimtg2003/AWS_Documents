@@ -38,3 +38,5 @@
 - `Server-side encryption with AWS KMS-managed keys (SSE-KMS)`: mã hóa dữ liệu bằng khóa được quản lý bởi KMS.
 - `Server-side encryption with customer-provided keys (SSE-C)`: mã hóa dữ liệu bằng khóa được cung cấp bởi người dùng.
 - `Client-side encryption`: mã hóa dữ liệu bằng khóa được cung cấp bởi người dùng.
+---
+![S3 example](/S3_bucket.png)
