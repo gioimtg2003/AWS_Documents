@@ -17,3 +17,10 @@
     - `Colocation`: Các tài nguyên máy tính được triển khai trên một trung tâm dữ liệu của một nhà cung cấp dịch vụ.
     - `Cloud`: Các tài nguyên máy tính được triển khai trên một trung tâm dữ liệu của một nhà cung cấp dịch vụ.
     
+## 5 - Availability Zone và Region
+- `Region` là một vùng địa lý có ít nhất 2 `Availability Zone`.
+- `Availability Zone` là một trung tâm dữ liệu độc lập với các trung tâm dữ liệu khác.
+- `Availability Zone` có tính liên kết chặt chẽ với nhau.
+- 1 Hệ thống có thể có nhiều `Availability Zone` nhưng chỉ có 1 `Region`.
+- Nếu 1 `Availability Zone` bị lỗi thì các `Availability Zone` khác vẫn hoạt động bình thường.
+- `Region` và `Availability Zone` được sử dụng để tăng tính sẵn sàng và độ tin cậy của hệ thống.
