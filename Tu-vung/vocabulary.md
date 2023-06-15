@@ -5,3 +5,7 @@
 - `infrastructure` cơ sở hạ tầng
 - `rescheduling` sắp xếp lại lịch trình
 - `interact` tương tác
+- `direction` phương hướng
+- `objectives` mục tiêu
+- `definitions` các định nghĩa
+- `distinguish` phân biệt

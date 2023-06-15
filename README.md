@@ -6,3 +6,4 @@
 - [Dịch vụ S3](/S3/readme.md)
 - [Dịch vụ EC2](/EC2/readme.md)
 - [Dịch vụ VPC](/VPC/readme.md)
+- [Certificate Cloud Practitioner](/Certificate/readme.md)
