@@ -1,0 +1,24 @@
+## Từ vựng
+- `industry` ngành công nghiệp
+- `on-premise` trên nền tảng, tại chỗ
+- `recognized` được công nhận
+- `infrastructure` cơ sở hạ tầng
+- `rescheduling` sắp xếp lại lịch trình
+- `interact` tương tác
+- `direction` phương hướng
+- `objectives` mục tiêu
+- `definitions` các định nghĩa
+- `distinguish` phân biệt
+- `opportunities` những cơ hội
+- `covered` đề cập, bàn đến, bao gồm
+- `explanation` giải thích
+- `reinforcement` sự củng cố
+- `strategies` chiến lược
+- `probability` xác suất
+- `brief survey` khảo sát ngắn
+- `assessment` đánh giá
+- `pay-as-you-go` làm bao nhiêu trả bấy nhiêu
+- `conclude` kết luận
+- `consisting` = `include` bao gồm
+- `entirely` (adv) hoàn toàn, toàn bộ 
+- `effective` (adj) hiệu quả

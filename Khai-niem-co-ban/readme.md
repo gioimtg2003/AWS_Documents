@@ -14,8 +14,8 @@
 ## 4 - Các mô hình triển khai Cloud Computing
 - Có 3 mô hình triển khai Cloud Computing:
     - `On-premise`: Các tài nguyên máy tính được triển khai trên một trung tâm dữ liệu của tổ chức.
-    - `Colocation`: Các tài nguyên máy tính được triển khai trên một trung tâm dữ liệu của một nhà cung cấp dịch vụ.
-    - `Cloud`: Các tài nguyên máy tính được triển khai trên một trung tâm dữ liệu của một nhà cung cấp dịch vụ.
+    - `cloud-based`: Các tài nguyên máy tính được triển khai trên một trung tâm dữ liệu của nhà cung cấp dịch vụ Cloud.
+    - `Hybrid`: Kết hợp giữa On-premise và cloud-based.
     
 ## 5 - Availability Zone và Region
 - `Region` là một vùng địa lý có ít nhất 2 `Availability Zone`.
