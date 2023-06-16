@@ -3,6 +3,7 @@
     - security
     - scalability
     - flexibility
+    
 ## Payment model
 - the cloud payment model is flexibility
 - the cloud services is a variable expense

@@ -33,3 +33,7 @@
 - `experiment` (v) thử nghiệm
 - `instant` (adj) tức thì, ngay lập tức
 - `legacy` (n) di sản, di tích
+- `decide` (v) quyết định
+- `exchange` (v) trao đổi  `exchange data` trao đổi dữ liệu
+- `instance` (n) trường hợp, ví dụ, thể hiện, thực thể
+- `purpose` (n) mục đích
