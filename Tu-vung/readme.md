@@ -22,3 +22,14 @@
 - `consisting` = `include` bao gồm
 - `entirely` (adv) hoàn toàn, toàn bộ 
 - `effective` (adj) hiệu quả
+- `invest in` đầu tư
+- `consume`(v) tiêu thụ
+- `capacity` (n) năng lực, công suất, dung tích, khả năng.
+- `focus` (v) tập trung, (n) trọng tâm, trung tâm
+- `such as` như là, chẳng hạn như
+- `operation` (n) hoạt động, vận hành
+- `staffers` nhân viên
+- `utilize` (v) sử dụng
+- `experiment` (v) thử nghiệm
+- `instant` (adj) tức thì, ngay lập tức
+- `legacy` (n) di sản, di tích
