@@ -37,3 +37,11 @@
 - `exchange` (v) trao đổi  `exchange data` trao đổi dữ liệu
 - `instance` (n) trường hợp, ví dụ, thể hiện, thực thể
 - `purpose` (n) mục đích
+- `fits` (v) phù hợp
+- `compute-intensive` (adj) tính toán mạnh, tính toán chuyên sâu
+- `Agility` (n) tính linh hoạt
+- `dataset` (n) tập dữ liệu
+- `accelerated` (adj) tăng tốc
+- `dedicated` (adj) dành riêng, riêng biệt, chuyên dụng
+- `architecture` (n) kiến trúc
+- `desired` (adj) mong muốn
